@@ -1,5 +1,3 @@
 # CHEME-5440-7770-PS2-S21
-This repository holds the code for Problem Set 2. You can download this repository as either a ``zip`` file (click the green code button on the upper right) or use the ``clone`` command from the command line:
-
-    $ git clone https://github.com/varnerlab/CHEME-5440-7770-PS2-S21.git
-
+I have included my edited code for problem set #2 in this branch. Original code was created by Professor Varner. 03/11/2021
+- Yefim
